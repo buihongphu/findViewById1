@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="editInfo">Enter Infomation</string>
+
+    <string name="btnNextPage">Next Page</string>
+    <string name="btnExit">Exit</string>
+    <string name="btnInfo">Info</string>
+</resources>
